@@ -8,6 +8,13 @@
     color: #8CAC7C;
 }
 
+.site-title {
+    font-size: 3rem;
+    color: gray;
+    font-weight: 700;
+    margin: 3 rem 0;
+}
+
 .nav-links {
     display: flex;
     list-style: none;
